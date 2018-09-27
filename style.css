@@ -3,3 +3,51 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {text-align: center;}
+
+#jam {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+nav {background-color: #f4d742;}
+
+figcaption {font-size: 14px; text-align: center;}
+
+#featured-property > p {
+  width: 800px;
+  text-align:center;
+  margin:auto;
+  
+}
+
+section#details > div {
+  display: block;
+  float:left;
+}
+
+section#details > div {
+  background-color: blue;
+  text-align: center;
+  
+}
+
+#one {
+  width: 25%;
+}
+
+#two {
+  width: 25%;
+}
+
+#three {
+  width: 25%
+}
+
+#four {
+  width: 25%;
+}
+
